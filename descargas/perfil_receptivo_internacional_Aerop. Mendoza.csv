@@ -1,0 +1,106 @@
+Año,Trimestre,País de residencia,Provincia visitada,Turistas no residentes*,Noches,Gasto en US$**,Casos Muestrales***
+2019,1,Brasil,Mendoza,8373,43475,7128479.5,524
+2019,1,Chile,Mendoza,10278,48564,4467531.4,720
+2019,1,EE.UU. y Canadá,Mendoza,5265,57872,5123296.5,385
+2019,1,Europa y resto del mundo,Mendoza,5076,43492,4969556.2,219
+2019,1,Resto de América,Mendoza,5233,55013,4100013,375
+2019,2,Brasil,Mendoza,8898,41315,7359681.9,835
+2019,2,Chile,Mendoza,7407,26505,2954873.8,910
+2019,2,EE.UU. y Canadá,Mendoza,2681,21502,1999351.6,330
+2019,2,Europa y resto del mundo,Mendoza,2681,19978,1368343,201
+2019,2,Resto de América,Mendoza,4192,28353,2583047.9,562
+2019,3,Brasil,Mendoza,9788,48295,8750835.1,967
+2019,3,Chile,Mendoza,8296,31750,2967508.8,1139
+2019,3,EE.UU. y Canadá,Mendoza,2208,19105,1483247.4,280
+2019,3,Europa y resto del mundo,Mendoza,2294,21049,1193900.5,195
+2019,3,Resto de América,Mendoza,4054,32078,2482964.2,500
+2019,4,Brasil,Mendoza,9567,47134,8229307.9,816
+2019,4,Chile,Mendoza,9832,33660,3684208.3,834
+2019,4,EE.UU. y Canadá,Mendoza,3274,33300,3116648.3,360
+2019,4,Europa y resto del mundo,Mendoza,3309,23064,2059121.5,233
+2019,4,Resto de América,Mendoza,5766,58769,4301152.9,510
+2020,1,Brasil,Mendoza,6270,34339,5531841.2,596
+2020,1,Chile,Mendoza,5239,21598,2005728.5,572
+2020,1,EE.UU. y Canadá,Mendoza,4016,41339,4000240.9,332
+2020,1,Europa y resto del mundo,Mendoza,3343,29341,2824675.9,202
+2020,1,Resto de América,Mendoza,3411,28262,2300462.9,430
+2021,4,Brasil,Mendoza,1524,10077,1676331.3,187
+2021,4,Chile,Mendoza,2403,28323,1035880.7,152
+2021,4,EE.UU. y Canadá,Mendoza,311,5802,293792,27
+2021,4,Europa y resto del mundo,Mendoza,289,4618,175210.1,19
+2021,4,Resto de América,Mendoza,433,6003,665519.9,48
+2022,1,Brasil,Mendoza,3812,34444,3881096.9,262
+2022,1,Chile,Mendoza,3125,32443,1694471,272
+2022,1,EE.UU. y Canadá,Mendoza,2113,36151,2779692.1,151
+2022,1,Europa y resto del mundo,Mendoza,1721,37372,1615775.8,93
+2022,1,Resto de América,Mendoza,1188,18198,1285106.3,80
+2022,2,Brasil,Mendoza,5655,35239,5972895.5,339
+2022,2,Chile,Mendoza,2917,22444,1328723.2,306
+2022,2,EE.UU. y Canadá,Mendoza,1570,18398,1176676.4,193
+2022,2,Europa y resto del mundo,Mendoza,1082,14143,579276.7,34
+2022,2,Resto de América,Mendoza,1696,18655,1310010.6,161
+2022,3,Brasil,Mendoza,11487,69719,12153550.8,649
+2022,3,Chile,Mendoza,5383,35730,2873445.7,373
+2022,3,EE.UU. y Canadá,Mendoza,1889,23267,1669232.9,236
+2022,3,Europa y resto del mundo,Mendoza,1116,24633,1157323.8,35
+2022,3,Resto de América,Mendoza,2288,22340,2026249.3,182
+2022,4,Brasil,Mendoza,9955,63115,15773604.1,517
+2022,4,Chile,Mendoza,6459,40172,3306953.4,310
+2022,4,EE.UU. y Canadá,Mendoza,3680,39845,4669624.3,220
+2022,4,Europa y resto del mundo,Mendoza,2622,42370,2263726.1,67
+2022,4,Resto de América,Mendoza,3968,31554,2932217.5,230
+2023,1,Brasil,Mendoza,10287,70490,18558323.9,353
+2023,1,Chile,Mendoza,8245,51926,4962558,403
+2023,1,EE.UU. y Canadá,Mendoza,6476,65457,10990783.5,289
+2023,1,Europa y resto del mundo,Mendoza,4595,60110,9505642.8,120
+2023,1,Resto de América,Mendoza,4231,40215,3093282.3,213
+2023,2,Brasil,Mendoza,15478,85006,23737919.1,738
+2023,2,Chile,Mendoza,8960,41595,4306510.5,386
+2023,2,EE.UU. y Canadá,Mendoza,3171,30680,3274113.8,215
+2023,2,Europa y resto del mundo,Mendoza,2505,21270,1781952.9,120
+2023,2,Resto de América,Mendoza,4062,25922,3309632.1,438
+2023,3,Brasil,Mendoza,21596,119105,26637163.3,1217
+2023,3,Chile,Mendoza,11505,61437,5100727,609
+2023,3,EE.UU. y Canadá,Mendoza,2728,26191,2513408,207
+2023,3,Europa y resto del mundo,Mendoza,2340,41361,1737142.2,118
+2023,3,Resto de América,Mendoza,4455,33972,3142570.5,414
+2023,4,Brasil,Mendoza,15903,90050,20879625.6,1000
+2023,4,Chile,Mendoza,9738,51551,4729247.9,407
+2023,4,EE.UU. y Canadá,Mendoza,4881,33073,4635700.8,357
+2023,4,Europa y resto del mundo,Mendoza,3386,30793,2715822.9,131
+2023,4,Resto de América,Mendoza,4974,38988,3693787.4,457
+2024,1,Brasil,Mendoza,14999,82119,18128371.7,828
+2024,1,Chile,Mendoza,10492,51554,4235310.9,524
+2024,1,EE.UU. y Canadá,Mendoza,6870,71226,8544125.4,378
+2024,1,Europa y resto del mundo,Mendoza,5210,59262,5469192.2,281
+2024,1,Resto de América,Mendoza,5531,46620,3887134.3,353
+2024,2,Brasil,Mendoza,19546,97620,21969833,947
+2024,2,Chile,Mendoza,8793,38755,3293995.1,693
+2024,2,EE.UU. y Canadá,Mendoza,4092,46391,4121290.5,402
+2024,2,Europa y resto del mundo,Mendoza,3301,32469,2471768.8,206
+2024,2,Resto de América,Mendoza,5433,40355,3600578.8,440
+2024,3,Brasil,Mendoza,19924,104597,19015724.2,1078
+2024,3,Chile,Mendoza,10451,46766,3564815.4,936
+2024,3,EE.UU. y Canadá,Mendoza,3407,37190,2832875.6,343
+2024,3,Europa y resto del mundo,Mendoza,2751,34406,1822559.7,195
+2024,3,Resto de América,Mendoza,5799,50976,4213460.1,520
+2024,4,Brasil,Mendoza,13310,70497,12752957.5,864
+2024,4,Chile,Mendoza,11512,44125,4215975.5,722
+2024,4,EE.UU. y Canadá,Mendoza,5405,44426,6093957.1,456
+2024,4,Europa y resto del mundo,Mendoza,4303,38267,3672931.5,254
+2024,4,Resto de América,Mendoza,5670,44110,4640764.4,508
+2025,1,Brasil,Mendoza,9481,51535,9728034.7,758
+2025,1,Chile,Mendoza,9029,37351,3418517.3,622
+2025,1,EE.UU. y Canadá,Mendoza,8516,76772,11880406.7,623
+2025,1,Europa y resto del mundo,Mendoza,6176,85565,9217272.6,322
+2025,1,Resto de América,Mendoza,5458,60515,5128902.1,412
+2025,2,Brasil,Mendoza,13201,67707,15239001.6,1044
+2025,2,Chile,Mendoza,7315,30742,2932208.9,635
+2025,2,EE.UU. y Canadá,Mendoza,4058,45087,4967520.4,342
+2025,2,Europa y resto del mundo,Mendoza,3434,40379,3033485.7,158
+2025,2,Resto de América,Mendoza,4984,33844,3726962.1,414
+2025,3,Brasil,Mendoza,12572,64690,13125303.8,735
+2025,3,Chile,Mendoza,4823,18531,1733019.9,353
+2025,3,EE.UU. y Canadá,Mendoza,2172,16619,1961916.6,120
+2025,3,Europa y resto del mundo,Mendoza,2017,24299,1298749.9,90
+2025,3,Resto de América,Mendoza,3000,19048,2209729.5,271

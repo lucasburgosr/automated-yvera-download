@@ -1,0 +1,77 @@
+Año,Trimestre,País de residencia,Provincia visitada,Turistas no residentes*,Noches,Gasto en US$**,Casos Muestrales***
+2019,1,Brasil,Mendoza,127,165,40296.2,94
+2019,1,Chile,Mendoza,18,36,3698.3,1
+2019,1,"EE.UU, Canadá y México",Mendoza,264,7920,78878.2,2
+2019,1,Europa y resto del mundo,Mendoza,162,1772,65730.2,10
+2019,1,Resto de América,Mendoza,27,189,3682.6,1
+2019,2,Chile,Mendoza,70,210,9879.2,1
+2019,2,"EE.UU, Canadá y México",Mendoza,29,116,5995.3,1
+2019,2,Europa y resto del mundo,Mendoza,112,304,14426.7,4
+2019,2,Resto de América,Mendoza,142,896,28507.3,9
+2019,3,Brasil,Mendoza,464,2116,169039.2,8
+2019,3,"EE.UU, Canadá y México",Mendoza,102,492,44495.2,7
+2019,3,Europa y resto del mundo,Mendoza,182,1602,59090.5,12
+2019,3,Resto de América,Mendoza,216,1746,123481.8,20
+2019,4,Brasil,Mendoza,398,2116,79339.7,9
+2019,4,"EE.UU, Canadá y México",Mendoza,96,1008,52102,6
+2019,4,Europa y resto del mundo,Mendoza,329,5163,137597.7,12
+2019,4,Resto de América,Mendoza,167,550,119133.5,6
+2020,1,Brasil,Mendoza,129,387,15242.2,3
+2020,1,Chile,Mendoza,184,920,12817.7,4
+2020,1,"EE.UU, Canadá y México",Mendoza,246,738,58467.8,2
+2020,1,Europa y resto del mundo,Mendoza,48,192,9371.7,4
+2020,1,Resto de América,Mendoza,245,1679,68749.2,38
+2021,4,Chile,Mendoza,33,99,4516.9,1
+2022,1,Europa y resto del mundo,Mendoza,50,328,8695.6,4
+2022,2,Brasil,Mendoza,134,710,89997.2,5
+2022,2,Chile,Mendoza,32,128,14161.3,2
+2022,2,"EE.UU, Canadá y México",Mendoza,84,296,26364.3,3
+2022,2,Europa y resto del mundo,Mendoza,54,1460,63460.2,4
+2022,2,Resto de América,Mendoza,242,1532,156020.5,24
+2022,3,Brasil,Mendoza,234,1638,233263.2,3
+2022,3,Chile,Mendoza,78,234,14662.3,3
+2022,3,Europa y resto del mundo,Mendoza,65,499,18755,3
+2022,3,Resto de América,Mendoza,123,641,66296.4,7
+2022,4,Brasil,Mendoza,334,1848,232887.1,8
+2022,4,Europa y resto del mundo,Mendoza,271,2851,201531,5
+2022,4,Resto de América,Mendoza,425,1275,268529.6,5
+2023,1,Brasil,Mendoza,142,710,74586.3,3
+2023,1,"EE.UU, Canadá y México",Mendoza,144,1084,59336.2,11
+2023,1,Europa y resto del mundo,Mendoza,296,1078,73487.4,8
+2023,1,Resto de América,Mendoza,592,5498,347191.4,19
+2023,2,Brasil,Mendoza,458,4190,214456.6,6
+2023,2,Chile,Mendoza,104,520,32048.6,2
+2023,2,"EE.UU, Canadá y México",Mendoza,127,1046,160540.5,8
+2023,2,Europa y resto del mundo,Mendoza,6,42,3659.2,6
+2023,2,Resto de América,Mendoza,348,1932,285116.1,9
+2023,3,Brasil,Mendoza,144,856,105105.2,6
+2023,3,Chile,Mendoza,143,286,16010.9,4
+2023,3,"EE.UU, Canadá y México",Mendoza,127,758,99230.3,4
+2023,3,Europa y resto del mundo,Mendoza,28,96,3197.6,10
+2023,3,Resto de América,Mendoza,44,660,58691.9,2
+2023,4,"EE.UU, Canadá y México",Mendoza,38,250,27354.2,3
+2023,4,Europa y resto del mundo,Mendoza,139,601,32068.7,5
+2023,4,Resto de América,Mendoza,781,2595,55765,9
+2024,1,Chile,Mendoza,24,72,5899.4,3
+2024,1,Europa y resto del mundo,Mendoza,156,780,17681.1,3
+2024,1,Resto de América,Mendoza,871,4701,260605.6,3
+2024,2,"EE.UU, Canadá y México",Mendoza,63,252,8710.9,1
+2024,2,Europa y resto del mundo,Mendoza,27,202,13297.5,2
+2024,2,Resto de América,Mendoza,58,174,20010,1
+2024,3,Brasil,Mendoza,140,787,116562.9,31
+2024,3,Chile,Mendoza,56,168,6446.5,4
+2024,3,"EE.UU, Canadá y México",Mendoza,18,180,39787.6,2
+2024,3,Europa y resto del mundo,Mendoza,240,2054,68597.3,9
+2024,3,Resto de América,Mendoza,167,618,63401.4,5
+2024,4,Brasil,Mendoza,77,344,17370.6,2
+2024,4,"EE.UU, Canadá y México",Mendoza,11,66,13171.2,1
+2024,4,Europa y resto del mundo,Mendoza,117,351,10828.3,3
+2024,4,Resto de América,Mendoza,16,32,6409.3,4
+2025,1,"EE.UU, Canadá y México",Mendoza,72,216,20296.7,1
+2025,1,Europa y resto del mundo,Mendoza,639,3523,133363,13
+2025,2,"EE.UU, Canadá y México",Mendoza,10,100,5812.3,1
+2025,2,Europa y resto del mundo,Mendoza,251,1954,52588.6,5
+2025,2,Resto de América,Mendoza,132,570,52045.8,3
+2025,3,Chile,Mendoza,28,28,59.4,1
+2025,3,"EE.UU, Canadá y México",Mendoza,8,24,3551.4,4
+2025,3,Resto de América,Mendoza,130,526,50295.9,4

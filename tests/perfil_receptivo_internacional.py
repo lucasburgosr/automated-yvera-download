@@ -1,6 +1,6 @@
 import asyncio
 from playwright.async_api import async_playwright, expect
-
+import pandas as pd
 
 async def perfil_receptivo_internacional():
 
@@ -8,7 +8,7 @@ async def perfil_receptivo_internacional():
 
         pasos = ["Ezeiza y Aeroparque", "Aerop. Córdoba", "Aerop. Mendoza", "Cristo Redentor", "Puerto de Buenos Aires"]
 
-        browser = await p.chromium.launch(headless=False, slow_mo=50)
+        browser = await p.chromium.launch(headless=True, slow_mo=50)
 
         context = await browser.new_context(ignore_https_errors=True)
 
@@ -84,3 +84,19 @@ async def perfil_receptivo_internacional():
 
         await browser.close()                                                                                                                                                                                                              
 
+async def join_data():
+
+    df_cordoba = pd.read_csv("./descargas/perfil_receptivo_internacional_Aerop. Córdoba.csv", delimiter=",", low_memory=False)
+    df_cordoba["Paso"] = "Aeropuerto de Córdoba"
+    df_puerto = pd.read_csv("./descargas/perfil_receptivo_internacional_Puerto de Buenos Aires.csv", delimiter=",", low_memory=False)
+    df_puerto["Paso"] = "Puerto de Buenos Aires"
+    df_ezeiza_aeroparque = pd.read_csv("./descargas/perfil_receptivo_internacional_Ezeiza y Aeroparque.csv", delimiter=",", low_memory=False)
+    df_ezeiza_aeroparque["Paso"] = "Ezeiza y Aeroparque"
+    df_cristo = pd.read_csv("./descargas/perfil_receptivo_internacional_Cristo Redentor.csv", delimiter=",", low_memory=False)
+    df_cristo["Paso"] = "Cristo Redentor"
+    df_mendoza = pd.read_csv("./descargas/perfil_receptivo_internacional_Aerop. Mendoza.csv", delimiter=",", low_memory=False)
+    df_mendoza["Paso"] = "Aeropuerto de Mendoza"
+
+    df_final = pd.concat([df_cordoba, df_puerto, df_ezeiza_aeroparque, df_cristo, df_mendoza], axis=0)
+
+    df_final.to_csv("./descargas/perfil_receptivo_internacional_unificado.csv", sep=";", index=False)

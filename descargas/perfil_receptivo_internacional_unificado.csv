@@ -1,0 +1,453 @@
+Año;Trimestre;País de residencia;Provincia visitada;Turistas no residentes*;Noches;Gasto en US$**;Casos Muestrales***;Paso
+2019;1;Brasil;Mendoza;127;165;40296.2;94;Aeropuerto de Córdoba
+2019;1;Chile;Mendoza;18;36;3698.3;1;Aeropuerto de Córdoba
+2019;1;EE.UU, Canadá y México;Mendoza;264;7920;78878.2;2;Aeropuerto de Córdoba
+2019;1;Europa y resto del mundo;Mendoza;162;1772;65730.2;10;Aeropuerto de Córdoba
+2019;1;Resto de América;Mendoza;27;189;3682.6;1;Aeropuerto de Córdoba
+2019;2;Chile;Mendoza;70;210;9879.2;1;Aeropuerto de Córdoba
+2019;2;EE.UU, Canadá y México;Mendoza;29;116;5995.3;1;Aeropuerto de Córdoba
+2019;2;Europa y resto del mundo;Mendoza;112;304;14426.7;4;Aeropuerto de Córdoba
+2019;2;Resto de América;Mendoza;142;896;28507.3;9;Aeropuerto de Córdoba
+2019;3;Brasil;Mendoza;464;2116;169039.2;8;Aeropuerto de Córdoba
+2019;3;EE.UU, Canadá y México;Mendoza;102;492;44495.2;7;Aeropuerto de Córdoba
+2019;3;Europa y resto del mundo;Mendoza;182;1602;59090.5;12;Aeropuerto de Córdoba
+2019;3;Resto de América;Mendoza;216;1746;123481.8;20;Aeropuerto de Córdoba
+2019;4;Brasil;Mendoza;398;2116;79339.7;9;Aeropuerto de Córdoba
+2019;4;EE.UU, Canadá y México;Mendoza;96;1008;52102.0;6;Aeropuerto de Córdoba
+2019;4;Europa y resto del mundo;Mendoza;329;5163;137597.7;12;Aeropuerto de Córdoba
+2019;4;Resto de América;Mendoza;167;550;119133.5;6;Aeropuerto de Córdoba
+2020;1;Brasil;Mendoza;129;387;15242.2;3;Aeropuerto de Córdoba
+2020;1;Chile;Mendoza;184;920;12817.7;4;Aeropuerto de Córdoba
+2020;1;EE.UU, Canadá y México;Mendoza;246;738;58467.8;2;Aeropuerto de Córdoba
+2020;1;Europa y resto del mundo;Mendoza;48;192;9371.7;4;Aeropuerto de Córdoba
+2020;1;Resto de América;Mendoza;245;1679;68749.2;38;Aeropuerto de Córdoba
+2021;4;Chile;Mendoza;33;99;4516.9;1;Aeropuerto de Córdoba
+2022;1;Europa y resto del mundo;Mendoza;50;328;8695.6;4;Aeropuerto de Córdoba
+2022;2;Brasil;Mendoza;134;710;89997.2;5;Aeropuerto de Córdoba
+2022;2;Chile;Mendoza;32;128;14161.3;2;Aeropuerto de Córdoba
+2022;2;EE.UU, Canadá y México;Mendoza;84;296;26364.3;3;Aeropuerto de Córdoba
+2022;2;Europa y resto del mundo;Mendoza;54;1460;63460.2;4;Aeropuerto de Córdoba
+2022;2;Resto de América;Mendoza;242;1532;156020.5;24;Aeropuerto de Córdoba
+2022;3;Brasil;Mendoza;234;1638;233263.2;3;Aeropuerto de Córdoba
+2022;3;Chile;Mendoza;78;234;14662.3;3;Aeropuerto de Córdoba
+2022;3;Europa y resto del mundo;Mendoza;65;499;18755.0;3;Aeropuerto de Córdoba
+2022;3;Resto de América;Mendoza;123;641;66296.4;7;Aeropuerto de Córdoba
+2022;4;Brasil;Mendoza;334;1848;232887.1;8;Aeropuerto de Córdoba
+2022;4;Europa y resto del mundo;Mendoza;271;2851;201531.0;5;Aeropuerto de Córdoba
+2022;4;Resto de América;Mendoza;425;1275;268529.6;5;Aeropuerto de Córdoba
+2023;1;Brasil;Mendoza;142;710;74586.3;3;Aeropuerto de Córdoba
+2023;1;EE.UU, Canadá y México;Mendoza;144;1084;59336.2;11;Aeropuerto de Córdoba
+2023;1;Europa y resto del mundo;Mendoza;296;1078;73487.4;8;Aeropuerto de Córdoba
+2023;1;Resto de América;Mendoza;592;5498;347191.4;19;Aeropuerto de Córdoba
+2023;2;Brasil;Mendoza;458;4190;214456.6;6;Aeropuerto de Córdoba
+2023;2;Chile;Mendoza;104;520;32048.6;2;Aeropuerto de Córdoba
+2023;2;EE.UU, Canadá y México;Mendoza;127;1046;160540.5;8;Aeropuerto de Córdoba
+2023;2;Europa y resto del mundo;Mendoza;6;42;3659.2;6;Aeropuerto de Córdoba
+2023;2;Resto de América;Mendoza;348;1932;285116.1;9;Aeropuerto de Córdoba
+2023;3;Brasil;Mendoza;144;856;105105.2;6;Aeropuerto de Córdoba
+2023;3;Chile;Mendoza;143;286;16010.9;4;Aeropuerto de Córdoba
+2023;3;EE.UU, Canadá y México;Mendoza;127;758;99230.3;4;Aeropuerto de Córdoba
+2023;3;Europa y resto del mundo;Mendoza;28;96;3197.6;10;Aeropuerto de Córdoba
+2023;3;Resto de América;Mendoza;44;660;58691.9;2;Aeropuerto de Córdoba
+2023;4;EE.UU, Canadá y México;Mendoza;38;250;27354.2;3;Aeropuerto de Córdoba
+2023;4;Europa y resto del mundo;Mendoza;139;601;32068.7;5;Aeropuerto de Córdoba
+2023;4;Resto de América;Mendoza;781;2595;55765.0;9;Aeropuerto de Córdoba
+2024;1;Chile;Mendoza;24;72;5899.4;3;Aeropuerto de Córdoba
+2024;1;Europa y resto del mundo;Mendoza;156;780;17681.1;3;Aeropuerto de Córdoba
+2024;1;Resto de América;Mendoza;871;4701;260605.6;3;Aeropuerto de Córdoba
+2024;2;EE.UU, Canadá y México;Mendoza;63;252;8710.9;1;Aeropuerto de Córdoba
+2024;2;Europa y resto del mundo;Mendoza;27;202;13297.5;2;Aeropuerto de Córdoba
+2024;2;Resto de América;Mendoza;58;174;20010.0;1;Aeropuerto de Córdoba
+2024;3;Brasil;Mendoza;140;787;116562.9;31;Aeropuerto de Córdoba
+2024;3;Chile;Mendoza;56;168;6446.5;4;Aeropuerto de Córdoba
+2024;3;EE.UU, Canadá y México;Mendoza;18;180;39787.6;2;Aeropuerto de Córdoba
+2024;3;Europa y resto del mundo;Mendoza;240;2054;68597.3;9;Aeropuerto de Córdoba
+2024;3;Resto de América;Mendoza;167;618;63401.4;5;Aeropuerto de Córdoba
+2024;4;Brasil;Mendoza;77;344;17370.6;2;Aeropuerto de Córdoba
+2024;4;EE.UU, Canadá y México;Mendoza;11;66;13171.2;1;Aeropuerto de Córdoba
+2024;4;Europa y resto del mundo;Mendoza;117;351;10828.3;3;Aeropuerto de Córdoba
+2024;4;Resto de América;Mendoza;16;32;6409.3;4;Aeropuerto de Córdoba
+2025;1;EE.UU, Canadá y México;Mendoza;72;216;20296.7;1;Aeropuerto de Córdoba
+2025;1;Europa y resto del mundo;Mendoza;639;3523;133363.0;13;Aeropuerto de Córdoba
+2025;2;EE.UU, Canadá y México;Mendoza;10;100;5812.3;1;Aeropuerto de Córdoba
+2025;2;Europa y resto del mundo;Mendoza;251;1954;52588.6;5;Aeropuerto de Córdoba
+2025;2;Resto de América;Mendoza;132;570;52045.8;3;Aeropuerto de Córdoba
+2025;3;Chile;Mendoza;28;28;59.4;1;Aeropuerto de Córdoba
+2025;3;EE.UU, Canadá y México;Mendoza;8;24;3551.4;4;Aeropuerto de Córdoba
+2025;3;Resto de América;Mendoza;130;526;50295.9;4;Aeropuerto de Córdoba
+2019;1;Resto del mundo;Mendoza;281;1409;130740.2;13;Puerto de Buenos Aires
+2019;1;Uruguay;Mendoza;269;1233;102994.8;7;Puerto de Buenos Aires
+2019;2;Resto del mundo;Mendoza;211;559;45224.5;4;Puerto de Buenos Aires
+2019;2;Uruguay;Mendoza;1077;7071;319389.9;13;Puerto de Buenos Aires
+2019;3;Resto del mundo;Mendoza;199;1193;80194.7;7;Puerto de Buenos Aires
+2019;3;Uruguay;Mendoza;1356;6725;461379.1;15;Puerto de Buenos Aires
+2019;4;Resto del mundo;Mendoza;211;1212;140949.1;24;Puerto de Buenos Aires
+2019;4;Uruguay;Mendoza;594;2941;260868.7;7;Puerto de Buenos Aires
+2020;1;Resto del mundo;Mendoza;273;1304;121007.6;22;Puerto de Buenos Aires
+2020;1;Uruguay;Mendoza;675;8952;2196303.7;22;Puerto de Buenos Aires
+2021;4;Resto del mundo;Mendoza;7;70;6908.3;1;Puerto de Buenos Aires
+2022;1;Resto del mundo;Mendoza;384;1170;135655.8;10;Puerto de Buenos Aires
+2022;1;Uruguay;Mendoza;351;4097;243080.8;6;Puerto de Buenos Aires
+2022;2;Resto del mundo;Mendoza;170;632;53865.6;4;Puerto de Buenos Aires
+2022;2;Uruguay;Mendoza;588;3117;343886.7;10;Puerto de Buenos Aires
+2022;3;Resto del mundo;Mendoza;386;2502;149829.6;6;Puerto de Buenos Aires
+2022;3;Uruguay;Mendoza;1066;5756;918322.4;19;Puerto de Buenos Aires
+2022;4;Resto del mundo;Mendoza;730;2862;1104750.8;11;Puerto de Buenos Aires
+2022;4;Uruguay;Mendoza;658;9646;1231051.0;7;Puerto de Buenos Aires
+2023;1;Resto del mundo;Mendoza;579;2259;370871.9;26;Puerto de Buenos Aires
+2023;1;Uruguay;Mendoza;744;4036;447358.8;15;Puerto de Buenos Aires
+2023;2;Resto del mundo;Mendoza;986;3960;829938.0;10;Puerto de Buenos Aires
+2023;2;Uruguay;Mendoza;1243;6579;507710.6;11;Puerto de Buenos Aires
+2023;3;Resto del mundo;Mendoza;703;2228;352799.6;10;Puerto de Buenos Aires
+2023;3;Uruguay;Mendoza;1879;9290;1001901.2;21;Puerto de Buenos Aires
+2023;4;Resto del mundo;Mendoza;1746;13029;1075452.1;15;Puerto de Buenos Aires
+2023;4;Uruguay;Mendoza;1338;9867;1102790.0;16;Puerto de Buenos Aires
+2024;1;Resto del mundo;Mendoza;1545;4781;492149.2;17;Puerto de Buenos Aires
+2024;1;Uruguay;Mendoza;898;8086;688280.5;8;Puerto de Buenos Aires
+2024;2;Resto del mundo;Mendoza;216;2172;196877.6;5;Puerto de Buenos Aires
+2024;2;Uruguay;Mendoza;628;3280;257780.9;15;Puerto de Buenos Aires
+2024;3;Resto del mundo;Mendoza;621;3338;332430.8;15;Puerto de Buenos Aires
+2024;3;Uruguay;Mendoza;1165;7179;560139.7;17;Puerto de Buenos Aires
+2024;4;Resto del mundo;Mendoza;854;2437;164878.9;8;Puerto de Buenos Aires
+2025;1;Resto del mundo;Mendoza;1125;3094;430722.9;6;Puerto de Buenos Aires
+2025;1;Uruguay;Mendoza;1129;8197;615013.8;13;Puerto de Buenos Aires
+2025;2;Resto del mundo;Mendoza;285;3186;68106.6;5;Puerto de Buenos Aires
+2025;2;Uruguay;Mendoza;810;5341;663343.0;13;Puerto de Buenos Aires
+2025;3;Resto del mundo;Mendoza;284;2120;97136.2;4;Puerto de Buenos Aires
+2025;3;Uruguay;Mendoza;570;2950;398170.4;6;Puerto de Buenos Aires
+2019;1;Bolivia;Mendoza;115;1823;266722.1;3;Ezeiza y Aeroparque
+2019;1;Brasil;Mendoza;6043;27049;3979814.2;100;Ezeiza y Aeroparque
+2019;1;Chile;Mendoza;84;168;11220.0;1;Ezeiza y Aeroparque
+2019;1;EE.UU. y Canadá;Mendoza;6158;54150;4246003.5;74;Ezeiza y Aeroparque
+2019;1;Europa;Mendoza;13427;132527;9013586.7;182;Ezeiza y Aeroparque
+2019;1;Paraguay;Mendoza;940;5322;570991.7;17;Ezeiza y Aeroparque
+2019;1;Resto de América;Mendoza;2218;11345;1128576.8;34;Ezeiza y Aeroparque
+2019;1;Resto del mundo;Mendoza;2883;20692;1161085.9;15;Ezeiza y Aeroparque
+2019;1;Uruguay;Mendoza;322;2124;213603.2;6;Ezeiza y Aeroparque
+2019;2;Bolivia;Mendoza;91;1127;46438.5;3;Ezeiza y Aeroparque
+2019;2;Brasil;Mendoza;4150;20601;2918350.6;53;Ezeiza y Aeroparque
+2019;2;Chile;Mendoza;470;2029;208750.1;8;Ezeiza y Aeroparque
+2019;2;EE.UU. y Canadá;Mendoza;2424;16105;1573687.3;39;Ezeiza y Aeroparque
+2019;2;Europa;Mendoza;9634;65527;5318234.0;170;Ezeiza y Aeroparque
+2019;2;Paraguay;Mendoza;118;708;85775.1;2;Ezeiza y Aeroparque
+2019;2;Resto de América;Mendoza;2570;17748;1231759.4;36;Ezeiza y Aeroparque
+2019;2;Resto del mundo;Mendoza;1538;12374;5520510.5;9;Ezeiza y Aeroparque
+2019;2;Uruguay;Mendoza;634;2646;159710.8;12;Ezeiza y Aeroparque
+2019;3;Bolivia;Mendoza;197;6640;412800.4;5;Ezeiza y Aeroparque
+2019;3;Brasil;Mendoza;7853;42295;4791095.0;105;Ezeiza y Aeroparque
+2019;3;Chile;Mendoza;104;936;44496.6;2;Ezeiza y Aeroparque
+2019;3;EE.UU. y Canadá;Mendoza;4824;29947;3113558.7;78;Ezeiza y Aeroparque
+2019;3;Europa;Mendoza;8240;58977;3977155.4;146;Ezeiza y Aeroparque
+2019;3;Paraguay;Mendoza;420;1580;163681.8;7;Ezeiza y Aeroparque
+2019;3;Resto de América;Mendoza;2192;14264;786953.7;34;Ezeiza y Aeroparque
+2019;3;Resto del mundo;Mendoza;691;4842;709910.1;4;Ezeiza y Aeroparque
+2019;3;Uruguay;Mendoza;976;7971;429597.4;16;Ezeiza y Aeroparque
+2019;4;Bolivia;Mendoza;33;231;18081.9;1;Ezeiza y Aeroparque
+2019;4;Brasil;Mendoza;4996;23069;3269200.0;71;Ezeiza y Aeroparque
+2019;4;Chile;Mendoza;276;812;37784.8;4;Ezeiza y Aeroparque
+2019;4;EE.UU. y Canadá;Mendoza;4147;21109;2396265.4;50;Ezeiza y Aeroparque
+2019;4;Europa;Mendoza;13066;88645;6679803.1;162;Ezeiza y Aeroparque
+2019;4;Paraguay;Mendoza;613;2881;430481.7;11;Ezeiza y Aeroparque
+2019;4;Resto de América;Mendoza;4261;63361;3038000.6;56;Ezeiza y Aeroparque
+2019;4;Resto del mundo;Mendoza;2091;51435;2328419.7;11;Ezeiza y Aeroparque
+2019;4;Uruguay;Mendoza;524;2725;377770.8;11;Ezeiza y Aeroparque
+2020;1;Bolivia;Mendoza;276;1294;100709.6;5;Ezeiza y Aeroparque
+2020;1;Brasil;Mendoza;5046;26497;4260297.1;74;Ezeiza y Aeroparque
+2020;1;Chile;Mendoza;46;92;16954.3;1;Ezeiza y Aeroparque
+2020;1;EE.UU. y Canadá;Mendoza;6037;40557;4108153.1;58;Ezeiza y Aeroparque
+2020;1;Europa;Mendoza;13041;121180;8891446.0;130;Ezeiza y Aeroparque
+2020;1;Paraguay;Mendoza;198;1054;93062.2;3;Ezeiza y Aeroparque
+2020;1;Resto de América;Mendoza;3854;14003;1155029.2;51;Ezeiza y Aeroparque
+2020;1;Resto del mundo;Mendoza;3290;11132;1463458.8;12;Ezeiza y Aeroparque
+2020;1;Uruguay;Mendoza;166;772;131646.3;3;Ezeiza y Aeroparque
+2021;1;Bolivia;Mendoza;28;392;7711.1;3;Ezeiza y Aeroparque
+2021;1;Brasil;Mendoza;53;1430;37419.5;2;Ezeiza y Aeroparque
+2021;1;Chile;Mendoza;143;1988;142916.3;8;Ezeiza y Aeroparque
+2021;1;EE.UU. y Canadá;Mendoza;676;17659;887846.8;20;Ezeiza y Aeroparque
+2021;1;Europa;Mendoza;615;31429;641661.2;14;Ezeiza y Aeroparque
+2021;1;Resto de América;Mendoza;237;10864;155072.1;7;Ezeiza y Aeroparque
+2021;4;Brasil;Mendoza;400;6052;426361.8;11;Ezeiza y Aeroparque
+2021;4;Chile;Mendoza;183;6281;151489.3;6;Ezeiza y Aeroparque
+2021;4;EE.UU. y Canadá;Mendoza;1663;25318;1683968.7;25;Ezeiza y Aeroparque
+2021;4;Europa;Mendoza;2143;60939;5035720.5;34;Ezeiza y Aeroparque
+2021;4;Paraguay;Mendoza;88;517;55996.7;3;Ezeiza y Aeroparque
+2021;4;Resto de América;Mendoza;548;6152;557537.8;14;Ezeiza y Aeroparque
+2021;4;Resto del mundo;Mendoza;135;12910;642960.1;2;Ezeiza y Aeroparque
+2021;4;Uruguay;Mendoza;28;1344;15689.1;1;Ezeiza y Aeroparque
+2022;1;Bolivia;Mendoza;97;1281;92289.5;2;Ezeiza y Aeroparque
+2022;1;Brasil;Mendoza;1316;9664;1169265.6;22;Ezeiza y Aeroparque
+2022;1;Chile;Mendoza;72;318;71086.5;2;Ezeiza y Aeroparque
+2022;1;EE.UU. y Canadá;Mendoza;2812;34518;3300249.9;27;Ezeiza y Aeroparque
+2022;1;Europa;Mendoza;7975;164591;6071014.9;78;Ezeiza y Aeroparque
+2022;1;Paraguay;Mendoza;309;3076;383135.8;3;Ezeiza y Aeroparque
+2022;1;Resto de América;Mendoza;1740;25304;1924563.5;25;Ezeiza y Aeroparque
+2022;1;Resto del mundo;Mendoza;751;11474;412520.6;4;Ezeiza y Aeroparque
+2022;1;Uruguay;Mendoza;95;2283;162511.0;2;Ezeiza y Aeroparque
+2022;2;Bolivia;Mendoza;79;877;43091.7;4;Ezeiza y Aeroparque
+2022;2;Brasil;Mendoza;3832;21216;3235243.4;61;Ezeiza y Aeroparque
+2022;2;Chile;Mendoza;151;1074;260718.2;3;Ezeiza y Aeroparque
+2022;2;EE.UU. y Canadá;Mendoza;3081;60225;3641475.5;34;Ezeiza y Aeroparque
+2022;2;Europa;Mendoza;5854;86489;3624419.5;92;Ezeiza y Aeroparque
+2022;2;Paraguay;Mendoza;242;1218;157909.3;5;Ezeiza y Aeroparque
+2022;2;Resto de América;Mendoza;2184;12027;1272441.9;42;Ezeiza y Aeroparque
+2022;2;Resto del mundo;Mendoza;1143;10137;870390.8;11;Ezeiza y Aeroparque
+2022;3;Bolivia;Mendoza;162;552;139474.1;6;Ezeiza y Aeroparque
+2022;3;Brasil;Mendoza;5935;27438;4291275.6;94;Ezeiza y Aeroparque
+2022;3;Chile;Mendoza;198;1034;117340.7;4;Ezeiza y Aeroparque
+2022;3;EE.UU. y Canadá;Mendoza;3642;33393;2999293.7;44;Ezeiza y Aeroparque
+2022;3;Europa;Mendoza;4716;105321;4230081.8;110;Ezeiza y Aeroparque
+2022;3;Paraguay;Mendoza;110;330;29896.1;2;Ezeiza y Aeroparque
+2022;3;Resto de América;Mendoza;2965;23059;1748051.9;78;Ezeiza y Aeroparque
+2022;3;Resto del mundo;Mendoza;304;1520;89151.7;4;Ezeiza y Aeroparque
+2022;3;Uruguay;Mendoza;398;3170;311520.1;16;Ezeiza y Aeroparque
+2022;4;Bolivia;Mendoza;68;408;21881.0;1;Ezeiza y Aeroparque
+2022;4;Brasil;Mendoza;2273;12637;1762714.3;27;Ezeiza y Aeroparque
+2022;4;Chile;Mendoza;406;708;68708.1;5;Ezeiza y Aeroparque
+2022;4;EE.UU. y Canadá;Mendoza;5878;34149;3379325.3;40;Ezeiza y Aeroparque
+2022;4;Europa;Mendoza;8355;73289;4511870.6;71;Ezeiza y Aeroparque
+2022;4;Paraguay;Mendoza;83;249;40018.5;1;Ezeiza y Aeroparque
+2022;4;Resto de América;Mendoza;3364;14394;1742889.5;61;Ezeiza y Aeroparque
+2022;4;Resto del mundo;Mendoza;440;2052;220202.5;4;Ezeiza y Aeroparque
+2022;4;Uruguay;Mendoza;84;756;61923.6;2;Ezeiza y Aeroparque
+2023;1;Bolivia;Mendoza;97;1290;69316.9;2;Ezeiza y Aeroparque
+2023;1;Brasil;Mendoza;3418;23622;2680925.1;48;Ezeiza y Aeroparque
+2023;1;Chile;Mendoza;512;1142;96529.9;7;Ezeiza y Aeroparque
+2023;1;EE.UU. y Canadá;Mendoza;7714;47353;5886540.8;54;Ezeiza y Aeroparque
+2023;1;Europa;Mendoza;10377;132595;9005384.9;73;Ezeiza y Aeroparque
+2023;1;Paraguay;Mendoza;230;1206;148127.6;5;Ezeiza y Aeroparque
+2023;1;Resto de América;Mendoza;2479;12990;1556163.0;48;Ezeiza y Aeroparque
+2023;1;Resto del mundo;Mendoza;1766;9619;634917.4;9;Ezeiza y Aeroparque
+2023;1;Uruguay;Mendoza;199;1212;189068.2;3;Ezeiza y Aeroparque
+2023;2;Bolivia;Mendoza;104;528;107421.5;3;Ezeiza y Aeroparque
+2023;2;Brasil;Mendoza;4535;25126;3589663.8;47;Ezeiza y Aeroparque
+2023;2;Chile;Mendoza;156;926;70526.0;2;Ezeiza y Aeroparque
+2023;2;EE.UU. y Canadá;Mendoza;3034;20697;2324358.8;35;Ezeiza y Aeroparque
+2023;2;Europa;Mendoza;6016;80342;4901279.2;95;Ezeiza y Aeroparque
+2023;2;Paraguay;Mendoza;176;440;23521.3;2;Ezeiza y Aeroparque
+2023;2;Resto de América;Mendoza;1265;9582;1237272.1;23;Ezeiza y Aeroparque
+2023;2;Resto del mundo;Mendoza;604;13076;789096.8;4;Ezeiza y Aeroparque
+2023;2;Uruguay;Mendoza;482;2912;484097.3;5;Ezeiza y Aeroparque
+2023;3;Bolivia;Mendoza;271;6727;407730.8;5;Ezeiza y Aeroparque
+2023;3;Brasil;Mendoza;5686;28656;4360066.1;49;Ezeiza y Aeroparque
+2023;3;Chile;Mendoza;272;1606;152472.5;4;Ezeiza y Aeroparque
+2023;3;EE.UU. y Canadá;Mendoza;3407;82145;3553397.1;37;Ezeiza y Aeroparque
+2023;3;Europa;Mendoza;5201;45078;3174925.1;84;Ezeiza y Aeroparque
+2023;3;Resto de América;Mendoza;4911;23565;2657633.9;85;Ezeiza y Aeroparque
+2023;3;Resto del mundo;Mendoza;616;5011;211266.8;3;Ezeiza y Aeroparque
+2023;3;Uruguay;Mendoza;62;186;28163.2;1;Ezeiza y Aeroparque
+2023;4;Bolivia;Mendoza;92;368;67383.9;2;Ezeiza y Aeroparque
+2023;4;Brasil;Mendoza;3221;16052;2119566.2;29;Ezeiza y Aeroparque
+2023;4;Chile;Mendoza;682;2773;285828.3;8;Ezeiza y Aeroparque
+2023;4;EE.UU. y Canadá;Mendoza;5315;30534;2305347.6;35;Ezeiza y Aeroparque
+2023;4;Europa;Mendoza;8679;123126;6649730.3;79;Ezeiza y Aeroparque
+2023;4;Paraguay;Mendoza;151;802;152302.2;2;Ezeiza y Aeroparque
+2023;4;Resto de América;Mendoza;3979;27032;2135208.9;54;Ezeiza y Aeroparque
+2023;4;Resto del mundo;Mendoza;1747;15726;561297.5;6;Ezeiza y Aeroparque
+2023;4;Uruguay;Mendoza;215;574;125528.4;2;Ezeiza y Aeroparque
+2024;1;Bolivia;Mendoza;127;822;38461.8;2;Ezeiza y Aeroparque
+2024;1;Brasil;Mendoza;4195;25194;2695485.4;58;Ezeiza y Aeroparque
+2024;1;Chile;Mendoza;408;1696;114445.1;7;Ezeiza y Aeroparque
+2024;1;EE.UU. y Canadá;Mendoza;5839;106468;3692890.4;32;Ezeiza y Aeroparque
+2024;1;Europa;Mendoza;11015;144668;7553474.5;63;Ezeiza y Aeroparque
+2024;1;Paraguay;Mendoza;301;1466;191878.1;6;Ezeiza y Aeroparque
+2024;1;Resto de América;Mendoza;3995;16446;2289552.9;70;Ezeiza y Aeroparque
+2024;1;Resto del mundo;Mendoza;870;2304;122048.5;2;Ezeiza y Aeroparque
+2024;1;Uruguay;Mendoza;666;3061;345228.6;8;Ezeiza y Aeroparque
+2024;2;Bolivia;Mendoza;138;480;126923.4;7;Ezeiza y Aeroparque
+2024;2;Brasil;Mendoza;6464;35847;5382233.3;83;Ezeiza y Aeroparque
+2024;2;Chile;Mendoza;264;1038;124627.2;6;Ezeiza y Aeroparque
+2024;2;EE.UU. y Canadá;Mendoza;4317;25852;2451221.9;44;Ezeiza y Aeroparque
+2024;2;Europa;Mendoza;4054;24792;2099692.3;51;Ezeiza y Aeroparque
+2024;2;Paraguay;Mendoza;468;1344;372316.6;14;Ezeiza y Aeroparque
+2024;2;Resto de América;Mendoza;3595;14902;1647716.4;81;Ezeiza y Aeroparque
+2024;2;Resto del mundo;Mendoza;963;3459;373095.3;4;Ezeiza y Aeroparque
+2024;2;Uruguay;Mendoza;209;2260;109277.9;3;Ezeiza y Aeroparque
+2024;3;Brasil;Mendoza;5146;25445;3212946.9;83;Ezeiza y Aeroparque
+2024;3;Chile;Mendoza;45;1260;6351.9;1;Ezeiza y Aeroparque
+2024;3;EE.UU. y Canadá;Mendoza;2668;18723;2099402.7;38;Ezeiza y Aeroparque
+2024;3;Europa;Mendoza;3996;48311;3351236.8;68;Ezeiza y Aeroparque
+2024;3;Paraguay;Mendoza;250;1229;227660.9;12;Ezeiza y Aeroparque
+2024;3;Resto de América;Mendoza;3336;14680;2037820.1;93;Ezeiza y Aeroparque
+2024;3;Resto del mundo;Mendoza;1012;22120;1739218.6;5;Ezeiza y Aeroparque
+2024;3;Uruguay;Mendoza;839;5642;433553.6;23;Ezeiza y Aeroparque
+2024;4;Bolivia;Mendoza;97;820;101854.1;4;Ezeiza y Aeroparque
+2024;4;Brasil;Mendoza;4848;28052;4386612.1;74;Ezeiza y Aeroparque
+2024;4;Chile;Mendoza;477;2778;177528.1;11;Ezeiza y Aeroparque
+2024;4;EE.UU. y Canadá;Mendoza;5216;20437;3541311.6;52;Ezeiza y Aeroparque
+2024;4;Europa;Mendoza;6805;40742;3132276.3;58;Ezeiza y Aeroparque
+2024;4;Paraguay;Mendoza;140;812;195373.9;5;Ezeiza y Aeroparque
+2024;4;Resto de América;Mendoza;3537;16866;3027042.8;97;Ezeiza y Aeroparque
+2024;4;Resto del mundo;Mendoza;696;3132;546231.1;4;Ezeiza y Aeroparque
+2024;4;Uruguay;Mendoza;490;2757;284257.0;11;Ezeiza y Aeroparque
+2025;1;Bolivia;Mendoza;26;104;7741.5;2;Ezeiza y Aeroparque
+2025;1;Brasil;Mendoza;3750;30927;4911266.7;87;Ezeiza y Aeroparque
+2025;1;Chile;Mendoza;648;2277;302227.2;18;Ezeiza y Aeroparque
+2025;1;EE.UU. y Canadá;Mendoza;4181;22424;3349309.3;36;Ezeiza y Aeroparque
+2025;1;Europa;Mendoza;6197;67229;4816468.2;47;Ezeiza y Aeroparque
+2025;1;Paraguay;Mendoza;66;390;92510.9;10;Ezeiza y Aeroparque
+2025;1;Resto de América;Mendoza;3028;30312;3433977.5;87;Ezeiza y Aeroparque
+2025;1;Resto del mundo;Mendoza;1564;11322;1090776.4;8;Ezeiza y Aeroparque
+2025;2;Bolivia;Mendoza;48;304;63084.5;5;Ezeiza y Aeroparque
+2025;2;Brasil;Mendoza;5182;31012;3500701.7;73;Ezeiza y Aeroparque
+2025;2;Chile;Mendoza;255;1318;122002.4;8;Ezeiza y Aeroparque
+2025;2;EE.UU. y Canadá;Mendoza;4457;22470;2461130.8;46;Ezeiza y Aeroparque
+2025;2;Europa;Mendoza;4317;43381;3093656.3;71;Ezeiza y Aeroparque
+2025;2;Paraguay;Mendoza;29;203;26260.1;1;Ezeiza y Aeroparque
+2025;2;Resto de América;Mendoza;3771;29130;4086966.9;88;Ezeiza y Aeroparque
+2025;2;Uruguay;Mendoza;595;2988;528013.2;6;Ezeiza y Aeroparque
+2025;3;Bolivia;Mendoza;136;555;78946.7;6;Ezeiza y Aeroparque
+2025;3;Brasil;Mendoza;4901;32356;3650389.5;49;Ezeiza y Aeroparque
+2025;3;Chile;Mendoza;212;1116;92662.9;11;Ezeiza y Aeroparque
+2025;3;EE.UU. y Canadá;Mendoza;1272;9924;466734.7;16;Ezeiza y Aeroparque
+2025;3;Europa;Mendoza;2789;27573;2579866.1;47;Ezeiza y Aeroparque
+2025;3;Paraguay;Mendoza;34;256;21998.1;3;Ezeiza y Aeroparque
+2025;3;Resto de América;Mendoza;4329;22058;3799642.5;67;Ezeiza y Aeroparque
+2025;3;Resto del mundo;Mendoza;369;4345;333267.9;3;Ezeiza y Aeroparque
+2025;3;Uruguay;Mendoza;419;7526;414798.8;3;Ezeiza y Aeroparque
+2019;1;Chile;Mendoza;42201;218761;9497748.8;621;Cristo Redentor
+2019;1;Resto del mundo;Mendoza;18605;128387;6927361.9;730;Cristo Redentor
+2019;2;Chile;Mendoza;29400;113104;5484291.8;652;Cristo Redentor
+2019;2;Resto del mundo;Mendoza;11544;65408;4342091.7;611;Cristo Redentor
+2019;3;Chile;Mendoza;33180;160255;6890280.0;950;Cristo Redentor
+2019;3;Resto del mundo;Mendoza;12629;93436;2998881.1;497;Cristo Redentor
+2019;4;Chile;Mendoza;46824;204550;10127739.8;725;Cristo Redentor
+2019;4;Resto del mundo;Mendoza;19484;109860;6944899.6;512;Cristo Redentor
+2020;1;Chile;Mendoza;54574;315262;13349509.9;853;Cristo Redentor
+2020;1;Resto del mundo;Mendoza;22384;116322;7143453.0;443;Cristo Redentor
+2021;4;Chile;Mendoza;1997;31143;721893.7;195;Cristo Redentor
+2021;4;Resto del mundo;Mendoza;138;361;42580.9;5;Cristo Redentor
+2022;1;Chile;Mendoza;12206;123744;4540699.3;971;Cristo Redentor
+2022;1;Resto del mundo;Mendoza;2433;19702;1010639.3;135;Cristo Redentor
+2022;2;Chile;Mendoza;22516;131849;6562727.3;789;Cristo Redentor
+2022;2;Resto del mundo;Mendoza;5005;32634;2649379.0;314;Cristo Redentor
+2022;3;Chile;Mendoza;21800;159129;6940321.7;917;Cristo Redentor
+2022;3;Resto del mundo;Mendoza;6069;32458;2519271.9;434;Cristo Redentor
+2022;4;Chile;Mendoza;48771;278885;13391495.3;1152;Cristo Redentor
+2022;4;Resto del mundo;Mendoza;8196;46905;4241832.0;357;Cristo Redentor
+2023;1;Chile;Mendoza;69298;402532;19750465.4;1241;Cristo Redentor
+2023;1;Resto del mundo;Mendoza;10955;61392;5461249.2;360;Cristo Redentor
+2023;2;Chile;Mendoza;64323;275221;18563448.2;1250;Cristo Redentor
+2023;2;Resto del mundo;Mendoza;7920;39660;3161068.3;223;Cristo Redentor
+2023;3;Chile;Mendoza;6791;54262;2369310.5;917;Cristo Redentor
+2023;3;Resto del mundo;Mendoza;4875;26890;1488427.7;225;Cristo Redentor
+2023;4;Chile;Mendoza;20794;107104;7044698.8;1218;Cristo Redentor
+2023;4;Resto del mundo;Mendoza;9494;49997;4300058.8;296;Cristo Redentor
+2024;1;Chile;Mendoza;25366;158306;6360207.0;1195;Cristo Redentor
+2024;1;Resto del mundo;Mendoza;12450;76586;5693085.4;343;Cristo Redentor
+2024;2;Chile;Mendoza;13184;86865;2900322.6;706;Cristo Redentor
+2024;2;Resto del mundo;Mendoza;5358;31346;2202948.4;282;Cristo Redentor
+2024;3;Chile;Mendoza;14422;95985;3009434.9;890;Cristo Redentor
+2024;3;Resto del mundo;Mendoza;6416;25981;1999592.2;371;Cristo Redentor
+2024;4;Chile;Mendoza;27100;145205;6526943.5;931;Cristo Redentor
+2024;4;Resto del mundo;Mendoza;12441;98886;6073410.8;356;Cristo Redentor
+2025;1;Chile;Mendoza;28543;179843;7028351.3;963;Cristo Redentor
+2025;1;Resto del mundo;Mendoza;13560;102388;6401616.7;403;Cristo Redentor
+2025;2;Chile;Mendoza;14426;98630;3190602.1;737;Cristo Redentor
+2025;2;Resto del mundo;Mendoza;7431;39940;2535860.6;253;Cristo Redentor
+2025;3;Chile;Mendoza;8081;53869;2007240.9;482;Cristo Redentor
+2025;3;Resto del mundo;Mendoza;3612;13130;1044123.2;209;Cristo Redentor
+2019;1;Brasil;Mendoza;8373;43475;7128479.5;524;Aeropuerto de Mendoza
+2019;1;Chile;Mendoza;10278;48564;4467531.4;720;Aeropuerto de Mendoza
+2019;1;EE.UU. y Canadá;Mendoza;5265;57872;5123296.5;385;Aeropuerto de Mendoza
+2019;1;Europa y resto del mundo;Mendoza;5076;43492;4969556.2;219;Aeropuerto de Mendoza
+2019;1;Resto de América;Mendoza;5233;55013;4100013.0;375;Aeropuerto de Mendoza
+2019;2;Brasil;Mendoza;8898;41315;7359681.9;835;Aeropuerto de Mendoza
+2019;2;Chile;Mendoza;7407;26505;2954873.8;910;Aeropuerto de Mendoza
+2019;2;EE.UU. y Canadá;Mendoza;2681;21502;1999351.6;330;Aeropuerto de Mendoza
+2019;2;Europa y resto del mundo;Mendoza;2681;19978;1368343.0;201;Aeropuerto de Mendoza
+2019;2;Resto de América;Mendoza;4192;28353;2583047.9;562;Aeropuerto de Mendoza
+2019;3;Brasil;Mendoza;9788;48295;8750835.1;967;Aeropuerto de Mendoza
+2019;3;Chile;Mendoza;8296;31750;2967508.8;1139;Aeropuerto de Mendoza
+2019;3;EE.UU. y Canadá;Mendoza;2208;19105;1483247.4;280;Aeropuerto de Mendoza
+2019;3;Europa y resto del mundo;Mendoza;2294;21049;1193900.5;195;Aeropuerto de Mendoza
+2019;3;Resto de América;Mendoza;4054;32078;2482964.2;500;Aeropuerto de Mendoza
+2019;4;Brasil;Mendoza;9567;47134;8229307.9;816;Aeropuerto de Mendoza
+2019;4;Chile;Mendoza;9832;33660;3684208.3;834;Aeropuerto de Mendoza
+2019;4;EE.UU. y Canadá;Mendoza;3274;33300;3116648.3;360;Aeropuerto de Mendoza
+2019;4;Europa y resto del mundo;Mendoza;3309;23064;2059121.5;233;Aeropuerto de Mendoza
+2019;4;Resto de América;Mendoza;5766;58769;4301152.9;510;Aeropuerto de Mendoza
+2020;1;Brasil;Mendoza;6270;34339;5531841.2;596;Aeropuerto de Mendoza
+2020;1;Chile;Mendoza;5239;21598;2005728.5;572;Aeropuerto de Mendoza
+2020;1;EE.UU. y Canadá;Mendoza;4016;41339;4000240.9;332;Aeropuerto de Mendoza
+2020;1;Europa y resto del mundo;Mendoza;3343;29341;2824675.9;202;Aeropuerto de Mendoza
+2020;1;Resto de América;Mendoza;3411;28262;2300462.9;430;Aeropuerto de Mendoza
+2021;4;Brasil;Mendoza;1524;10077;1676331.3;187;Aeropuerto de Mendoza
+2021;4;Chile;Mendoza;2403;28323;1035880.7;152;Aeropuerto de Mendoza
+2021;4;EE.UU. y Canadá;Mendoza;311;5802;293792.0;27;Aeropuerto de Mendoza
+2021;4;Europa y resto del mundo;Mendoza;289;4618;175210.1;19;Aeropuerto de Mendoza
+2021;4;Resto de América;Mendoza;433;6003;665519.9;48;Aeropuerto de Mendoza
+2022;1;Brasil;Mendoza;3812;34444;3881096.9;262;Aeropuerto de Mendoza
+2022;1;Chile;Mendoza;3125;32443;1694471.0;272;Aeropuerto de Mendoza
+2022;1;EE.UU. y Canadá;Mendoza;2113;36151;2779692.1;151;Aeropuerto de Mendoza
+2022;1;Europa y resto del mundo;Mendoza;1721;37372;1615775.8;93;Aeropuerto de Mendoza
+2022;1;Resto de América;Mendoza;1188;18198;1285106.3;80;Aeropuerto de Mendoza
+2022;2;Brasil;Mendoza;5655;35239;5972895.5;339;Aeropuerto de Mendoza
+2022;2;Chile;Mendoza;2917;22444;1328723.2;306;Aeropuerto de Mendoza
+2022;2;EE.UU. y Canadá;Mendoza;1570;18398;1176676.4;193;Aeropuerto de Mendoza
+2022;2;Europa y resto del mundo;Mendoza;1082;14143;579276.7;34;Aeropuerto de Mendoza
+2022;2;Resto de América;Mendoza;1696;18655;1310010.6;161;Aeropuerto de Mendoza
+2022;3;Brasil;Mendoza;11487;69719;12153550.8;649;Aeropuerto de Mendoza
+2022;3;Chile;Mendoza;5383;35730;2873445.7;373;Aeropuerto de Mendoza
+2022;3;EE.UU. y Canadá;Mendoza;1889;23267;1669232.9;236;Aeropuerto de Mendoza
+2022;3;Europa y resto del mundo;Mendoza;1116;24633;1157323.8;35;Aeropuerto de Mendoza
+2022;3;Resto de América;Mendoza;2288;22340;2026249.3;182;Aeropuerto de Mendoza
+2022;4;Brasil;Mendoza;9955;63115;15773604.1;517;Aeropuerto de Mendoza
+2022;4;Chile;Mendoza;6459;40172;3306953.4;310;Aeropuerto de Mendoza
+2022;4;EE.UU. y Canadá;Mendoza;3680;39845;4669624.3;220;Aeropuerto de Mendoza
+2022;4;Europa y resto del mundo;Mendoza;2622;42370;2263726.1;67;Aeropuerto de Mendoza
+2022;4;Resto de América;Mendoza;3968;31554;2932217.5;230;Aeropuerto de Mendoza
+2023;1;Brasil;Mendoza;10287;70490;18558323.9;353;Aeropuerto de Mendoza
+2023;1;Chile;Mendoza;8245;51926;4962558.0;403;Aeropuerto de Mendoza
+2023;1;EE.UU. y Canadá;Mendoza;6476;65457;10990783.5;289;Aeropuerto de Mendoza
+2023;1;Europa y resto del mundo;Mendoza;4595;60110;9505642.8;120;Aeropuerto de Mendoza
+2023;1;Resto de América;Mendoza;4231;40215;3093282.3;213;Aeropuerto de Mendoza
+2023;2;Brasil;Mendoza;15478;85006;23737919.1;738;Aeropuerto de Mendoza
+2023;2;Chile;Mendoza;8960;41595;4306510.5;386;Aeropuerto de Mendoza
+2023;2;EE.UU. y Canadá;Mendoza;3171;30680;3274113.8;215;Aeropuerto de Mendoza
+2023;2;Europa y resto del mundo;Mendoza;2505;21270;1781952.9;120;Aeropuerto de Mendoza
+2023;2;Resto de América;Mendoza;4062;25922;3309632.1;438;Aeropuerto de Mendoza
+2023;3;Brasil;Mendoza;21596;119105;26637163.3;1217;Aeropuerto de Mendoza
+2023;3;Chile;Mendoza;11505;61437;5100727.0;609;Aeropuerto de Mendoza
+2023;3;EE.UU. y Canadá;Mendoza;2728;26191;2513408.0;207;Aeropuerto de Mendoza
+2023;3;Europa y resto del mundo;Mendoza;2340;41361;1737142.2;118;Aeropuerto de Mendoza
+2023;3;Resto de América;Mendoza;4455;33972;3142570.5;414;Aeropuerto de Mendoza
+2023;4;Brasil;Mendoza;15903;90050;20879625.6;1000;Aeropuerto de Mendoza
+2023;4;Chile;Mendoza;9738;51551;4729247.9;407;Aeropuerto de Mendoza
+2023;4;EE.UU. y Canadá;Mendoza;4881;33073;4635700.8;357;Aeropuerto de Mendoza
+2023;4;Europa y resto del mundo;Mendoza;3386;30793;2715822.9;131;Aeropuerto de Mendoza
+2023;4;Resto de América;Mendoza;4974;38988;3693787.4;457;Aeropuerto de Mendoza
+2024;1;Brasil;Mendoza;14999;82119;18128371.7;828;Aeropuerto de Mendoza
+2024;1;Chile;Mendoza;10492;51554;4235310.9;524;Aeropuerto de Mendoza
+2024;1;EE.UU. y Canadá;Mendoza;6870;71226;8544125.4;378;Aeropuerto de Mendoza
+2024;1;Europa y resto del mundo;Mendoza;5210;59262;5469192.2;281;Aeropuerto de Mendoza
+2024;1;Resto de América;Mendoza;5531;46620;3887134.3;353;Aeropuerto de Mendoza
+2024;2;Brasil;Mendoza;19546;97620;21969833.0;947;Aeropuerto de Mendoza
+2024;2;Chile;Mendoza;8793;38755;3293995.1;693;Aeropuerto de Mendoza
+2024;2;EE.UU. y Canadá;Mendoza;4092;46391;4121290.5;402;Aeropuerto de Mendoza
+2024;2;Europa y resto del mundo;Mendoza;3301;32469;2471768.8;206;Aeropuerto de Mendoza
+2024;2;Resto de América;Mendoza;5433;40355;3600578.8;440;Aeropuerto de Mendoza
+2024;3;Brasil;Mendoza;19924;104597;19015724.2;1078;Aeropuerto de Mendoza
+2024;3;Chile;Mendoza;10451;46766;3564815.4;936;Aeropuerto de Mendoza
+2024;3;EE.UU. y Canadá;Mendoza;3407;37190;2832875.6;343;Aeropuerto de Mendoza
+2024;3;Europa y resto del mundo;Mendoza;2751;34406;1822559.7;195;Aeropuerto de Mendoza
+2024;3;Resto de América;Mendoza;5799;50976;4213460.1;520;Aeropuerto de Mendoza
+2024;4;Brasil;Mendoza;13310;70497;12752957.5;864;Aeropuerto de Mendoza
+2024;4;Chile;Mendoza;11512;44125;4215975.5;722;Aeropuerto de Mendoza
+2024;4;EE.UU. y Canadá;Mendoza;5405;44426;6093957.1;456;Aeropuerto de Mendoza
+2024;4;Europa y resto del mundo;Mendoza;4303;38267;3672931.5;254;Aeropuerto de Mendoza
+2024;4;Resto de América;Mendoza;5670;44110;4640764.4;508;Aeropuerto de Mendoza
+2025;1;Brasil;Mendoza;9481;51535;9728034.7;758;Aeropuerto de Mendoza
+2025;1;Chile;Mendoza;9029;37351;3418517.3;622;Aeropuerto de Mendoza
+2025;1;EE.UU. y Canadá;Mendoza;8516;76772;11880406.7;623;Aeropuerto de Mendoza
+2025;1;Europa y resto del mundo;Mendoza;6176;85565;9217272.6;322;Aeropuerto de Mendoza
+2025;1;Resto de América;Mendoza;5458;60515;5128902.1;412;Aeropuerto de Mendoza
+2025;2;Brasil;Mendoza;13201;67707;15239001.6;1044;Aeropuerto de Mendoza
+2025;2;Chile;Mendoza;7315;30742;2932208.9;635;Aeropuerto de Mendoza
+2025;2;EE.UU. y Canadá;Mendoza;4058;45087;4967520.4;342;Aeropuerto de Mendoza
+2025;2;Europa y resto del mundo;Mendoza;3434;40379;3033485.7;158;Aeropuerto de Mendoza
+2025;2;Resto de América;Mendoza;4984;33844;3726962.1;414;Aeropuerto de Mendoza
+2025;3;Brasil;Mendoza;12572;64690;13125303.8;735;Aeropuerto de Mendoza
+2025;3;Chile;Mendoza;4823;18531;1733019.9;353;Aeropuerto de Mendoza
+2025;3;EE.UU. y Canadá;Mendoza;2172;16619;1961916.6;120;Aeropuerto de Mendoza
+2025;3;Europa y resto del mundo;Mendoza;2017;24299;1298749.9;90;Aeropuerto de Mendoza
+2025;3;Resto de América;Mendoza;3000;19048;2209729.5;271;Aeropuerto de Mendoza

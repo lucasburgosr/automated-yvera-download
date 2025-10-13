@@ -9,7 +9,7 @@ async def conectividad_aerea_mendoza():
 
         clasificaciones = ["Cabotaje", "Internacional"]
         
-        browser = await p.chromium.launch(headless=False, slow_mo=50)
+        browser = await p.chromium.launch(headless=True, slow_mo=50)
 
         context = await browser.new_context(ignore_https_errors=True)
 

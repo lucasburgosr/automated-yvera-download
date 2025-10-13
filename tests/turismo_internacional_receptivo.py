@@ -20,10 +20,10 @@ async def turismo_receptivo_internacional():
 
         # ----- SELECTOR DE AÑOS -----
 
-        input_anio = page.locator("#paso + .selectize-control .selectize-input")
+        input_anio = page.locator("#anio + .selectize-control .selectize-input")
         await input_anio.click()
 
-        dropdown = page.locator(".selectize-dropdown.single:visible")
+        dropdown = page.locator(".selectize-dropdown.multi:visible")
         await expect(dropdown).to_be_visible()
 
         years_to_select = range(2016, 2025)
@@ -75,9 +75,3 @@ async def turismo_receptivo_internacional():
         print(f"URL de descarga: {download.url}")
 
         await browser.close()                                                                                                                                                            
-
-async def join_data():
-    
-    df_unificado = pd.DataFrame(index=None)
-
-    df_cordoba = pd.read_csv("./descargas/perfil_receptivo_internacional_Aerop. Córdoba.csv", delimiter=";", )

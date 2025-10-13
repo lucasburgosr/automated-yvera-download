@@ -6,7 +6,7 @@ async def conectividad_terrestre_mendoza():
 
     async with async_playwright() as p:
 
-        browser = await p.chromium.launch(headless=False, slow_mo=50)
+        browser = await p.chromium.launch(headless=True, slow_mo=50)
 
         context = await browser.new_context(ignore_https_errors=True)
 

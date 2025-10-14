@@ -76,7 +76,7 @@ async def perfil_receptivo_internacional():
             download = await download_info.value
             
             # Guardamos el archivo con el nombre que nos sugiere el servidor
-            file_path = f"descargas/perfil_receptivo_internacional_{paso}.csv"
+            file_path = f"/descargas/perfil_receptivo_internacional_{paso}.csv"
             await download.save_as(file_path)
             
             print(f"Archivo descargado y guardado en: {file_path}")
@@ -99,4 +99,4 @@ async def join_data():
 
     df_final = pd.concat([df_cordoba, df_puerto, df_ezeiza_aeroparque, df_cristo, df_mendoza], axis=0)
 
-    df_final.to_csv("./descargas/perfil_receptivo_internacional_unificado.csv", sep=";", index=False)
+    df_final.to_csv("/descargas/perfil_receptivo_internacional_unificado.csv", sep=";", index=False)

@@ -48,7 +48,7 @@ async def conectividad_aerea_mendoza():
             download = await download_info.value
             
             # Guardamos el archivo con el nombre que nos sugiere el servidor
-            file_path = f"descargas/conectividad_aerea_{c}.csv"
+            file_path = f"/descargas/conectividad_aerea_{c}.csv"
             await download.save_as(file_path)
             
             print(f"Archivo descargado y guardado en: {file_path}")

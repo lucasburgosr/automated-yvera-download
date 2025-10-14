@@ -1,0 +1,3 @@
+Comando para correr el contenedor en el servidor:
+
+docker run --name descargas-yvera --rm -v /home/observer/public_html/data:/descargas descargas-yvera

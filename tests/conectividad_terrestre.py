@@ -73,7 +73,7 @@ async def conectividad_terrestre_mendoza():
         download = await download_info.value
         
         # Guardamos el archivo con el nombre que nos sugiere el servidor
-        file_path = f"descargas/conectividad_terrestre_mendoza.csv"
+        file_path = f"/descargas/conectividad_terrestre_mendoza.csv"
         await download.save_as(file_path)
         
         print(f"Archivo descargado y guardado en: {file_path}")
@@ -139,7 +139,7 @@ async def conectividad_terrestre_pais():
         download = await download_info.value
         
         # Guardamos el archivo con el nombre que nos sugiere el servidor
-        file_path = f"descargas/conectividad_terrestre_pais.csv"
+        file_path = f"/descargas/conectividad_terrestre_pais.csv"
         await download.save_as(file_path)
         
         print(f"Archivo descargado y guardado en: {file_path}")

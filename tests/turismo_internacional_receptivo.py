@@ -68,7 +68,7 @@ async def turismo_receptivo_internacional():
         download = await download_info.value
         
         # Guardamos el archivo con el nombre que nos sugiere el servidor
-        file_path = f"descargas/turismo_internacional_receptivo.csv"
+        file_path = f"/descargas/turismo_internacional_receptivo.csv"
         await download.save_as(file_path)
         
         print(f"Archivo descargado y guardado en: {file_path}")

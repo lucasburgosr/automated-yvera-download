@@ -84,7 +84,7 @@ async def perfil_receptivo_internacional():
 
         await browser.close()                                                                                                                                                                                                              
 
-async def join_data():
+async def join_perfil_receptivo():
 
     df_cordoba = pd.read_csv("./descargas/perfil_receptivo_internacional_Aerop. Córdoba.csv", delimiter=",", low_memory=False)
     df_cordoba["Paso"] = "Aeropuerto de Córdoba"
